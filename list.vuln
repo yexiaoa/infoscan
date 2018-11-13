@@ -1,0 +1,4 @@
+rdp-vuln-ms12-020.nse
+smb-vuln-ms17-010.nse
+http-vuln-cve2015-1635.nse
+http-iis-short-name-brute.nse
